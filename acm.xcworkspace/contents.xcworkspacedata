@@ -4,4 +4,7 @@
    <FileRef
       location = "group:poj/poj.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
 </Workspace>

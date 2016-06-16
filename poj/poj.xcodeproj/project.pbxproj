@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3B0EAF781D124E16006A992D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3B0EAF771D124E16006A992D /* main.cpp */; };
 		3B0EAF831D125361006A992D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3B0EAF821D125361006A992D /* main.cpp */; };
+		3BB6A9351D1276BA00D236A6 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 3BB6A9341D1276BA00D236A6 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		3B0EAF771D124E16006A992D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		3B0EAF801D125361006A992D /* 1005 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 1005; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B0EAF821D125361006A992D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		3BB6A9341D1276BA00D236A6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		3B0EAF5E1D124DA9006A992D = {
 			isa = PBXGroup;
 			children = (
+				3BB6A9341D1276BA00D236A6 /* README.md */,
 				3B0EAF761D124E16006A992D /* 1003 */,
 				3B0EAF811D125361006A992D /* 1005 */,
 				3B0EAF681D124DA9006A992D /* Products */,
@@ -207,6 +210,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BB6A9351D1276BA00D236A6 /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -371,6 +375,7 @@
 				3B0EAF701D124DA9006A992D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3B0EAF791D124E16006A992D /* Build configuration list for PBXNativeTarget "1003" */ = {
 			isa = XCConfigurationList;
@@ -379,6 +384,7 @@
 				3B0EAF7B1D124E16006A992D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3B0EAF841D125361006A992D /* Build configuration list for PBXNativeTarget "1005" */ = {
 			isa = XCConfigurationList;
@@ -387,6 +393,7 @@
 				3B0EAF861D125361006A992D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
