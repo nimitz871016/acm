@@ -19,6 +19,11 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>1007.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>poj.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -43,6 +48,11 @@
 			<true/>
 		</dict>
 		<key>3B8B7DE01D128E8A009704AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3B8B7DEB1D13CE19009704AD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
