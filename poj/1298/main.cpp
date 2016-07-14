@@ -12,11 +12,9 @@
 using namespace std;
 
 int main(){
-    char *str,*result;
+    char *str;
     str = (char *)malloc(sizeof(char)*200);
-    result = (char *)malloc(sizeof(char)*200);
     memset(str,0,200);
-    memset(result,0,200);
     bool flag = false;
     while(scanf("%s",str) && strcmp(str,"ENDOFINPUT")){
         if(!strcmp(str,"START")){
@@ -38,5 +36,6 @@ int main(){
             }
         }
     }
+    free(str);
     return 0;
 }
