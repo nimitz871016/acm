@@ -2,6 +2,9 @@
 //  main.cpp
 //  2109
 //  http://blog.csdn.net/code_pang/article/details/8263971
+//
+//  TODO:以后再用标准的方法做一遍
+//
 //  Created by Nimitz_007 on 16/7/18.
 //  Copyright © 2016年 Fujian Ruijie Networks Co., Ltd. All rights reserved.
 //
