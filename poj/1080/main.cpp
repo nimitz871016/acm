@@ -1,7 +1,7 @@
 //
 //  main.cpp
 //  1080
-//
+//  简单DP，值得纪念的一题。
 //  Created by Nimitz_007 on 16/7/20.
 //  Copyright © 2016年 Fujian Ruijie Networks Co., Ltd. All rights reserved.
 //
