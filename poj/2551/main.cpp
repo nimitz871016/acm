@@ -11,7 +11,7 @@
 
 int digitOfNum(long num){
     int count = 1;
-    while(num > pow(10.0,count)){
+    while(num >= pow(10.0,count)){
         count++;
     }
     return count;
